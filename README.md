@@ -2,7 +2,7 @@
 
 A collection of commands/features that I typically use when making plots with matplotlib. 
   
-## Authors
+## Author(s)
 
 * **Benedict Sukra** - [bensukra100](https://github.com/bensukra100)
 
